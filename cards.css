@@ -16,14 +16,14 @@
 
 /** FONTS **/
 
-@font-face{
+@font-face {
   font-family: Rubik;
   font-style: normal;
   font-weight: 600;
   src: url(https://d33wubrfki0l68.cloudfront.net/css/c52cb5fdc6b3db1823a3c6da0c1228a16af183f3/bd37c/hm1fcrk.woff2) format("woff2"), url(https://d33wubrfki0l68.cloudfront.net/css/e4f3db72f54ae3c4658d159fed459b22e4d2a3e9/937ee/2rvrc3w.woff) format("woff")
 }
 
-@font-face{
+@font-face {
   font-family: Rubik;
   font-style: normal;
   font-weight: 500;
@@ -61,13 +61,13 @@ body, html {
 
 /** CONTAINERS **/
 
-.card-container{
+.card-container {
   margin: 20px;
   display: flex;
   display: -webkit-flex;
 }
 
-.containerF {
+.containerF {
   overflow: hidden;
   margin: 20px;
 }
@@ -75,7 +75,7 @@ body, html {
 
 /** CARD BASE **/
 
-a.card-link{
+a.card-link {
   float: left;
   margin: 20px;
 }
