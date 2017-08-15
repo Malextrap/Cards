@@ -11,7 +11,7 @@ A element for my personal framework available in: https://github.com/Malextrap
  * Created by alejandrorioscalera
  * On 15/8/17
  *
- * -- SOCIAL NETWORKS -
+ * - SOCIAL NETWORKS -
  *
  * GitHub: https://github.com/clonalejandro or @clonalejandro
  * Website: https://clonalejandro.me/
