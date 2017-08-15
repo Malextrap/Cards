@@ -11,14 +11,14 @@ A element for my personal framework available in: https://github.com/Malextrap
  * Created by alejandrorioscalera
  * On 15/8/17
  *
- * -- SOCIAL NETWORKS --
+ * -- SOCIAL NETWORKS -
  *
  * GitHub: https://github.com/clonalejandro or @clonalejandro
  * Website: https://clonalejandro.me/
  * Twitter: https://twitter.com/clonalejandro11/ or @clonalejandro11
  * Keybase: https://keybase.io/clonalejandro/
  *
- * -- LICENSE --
+ * - LICENSE -
  *
  * All rights reserved for clonalejandro ©Malextrap | Cards 2017 / 2018
  */
@@ -228,14 +228,14 @@ a.card-link{
  * Created by alejandrorioscalera
  * On 15/8/17
  *
- * - SOCIAL NETWORKS -
+ * -- SOCIAL NETWORKS --
  *
  * GitHub: https://github.com/clonalejandro or @clonalejandro
  * Website: https://clonalejandro.me/
  * Twitter: https://twitter.com/clonalejandro11/ or @clonalejandro11
  * Keybase: https://keybase.io/clonalejandro/
  *
- * - LICENSE -
+ * -- LICENSE --
  *
  * All rights reserved for clonalejandro ©Malextrap | Cards 2017 / 2018
  */
