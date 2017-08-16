@@ -282,7 +282,7 @@ $(document).ready(function(){
 
 ## Test this element
 
-You can test in this web: <a href="https://malextrap.github.io/Cards/src/cards">this</a>
+You can test in this web: <a href="https://malextrap.github.io/Cards/src/minify/cards.min.html">this</a>
 
 
 
