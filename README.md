@@ -168,7 +168,7 @@ body, html {
   display: -webkit-flex;
 }
 
-.containerF {
+.containerF{
   overflow: hidden;
   margin: 20px;
 }
