@@ -1,6 +1,6 @@
 /**
  * Created by alejandrorioscalera
- * On 15/8/17
+ * On 11/10/17
  *
  * -- SOCIAL NETWORKS --
  *
@@ -8,15 +8,15 @@
  * Website: https://clonalejandro.me/
  * Twitter: https://twitter.com/clonalejandro11/ or @clonalejandro11
  * Keybase: https://keybase.io/clonalejandro/
- *
+ *    
  * -- LICENSE --
  *
- * All rights reserved for clonalejandro ©Malextrap | Cards 2017 / 2018
+ * All rights reserved for clonalejandro ©malextrap 2017 / 2018
  */
 
 /** REST **/
 
-body .card {
+.card {
   font-family: Rubik,Helveltica Neue,Open Sans,Segoe UI,sans-serif;
   font-weight: 500;
   text-rendering: optimizeLegibility;
@@ -26,20 +26,6 @@ body .card {
 
 .card-link * {
   font-size: 18px!important;
-}
-
-
-/** CONTAINERS **/
-
-.card-container {
-  margin: 20px;
-  display: flex;
-  display: -webkit-flex;
-}
-
-.containerF {
-  overflow: hidden;
-  margin: 20px;
 }
 
 
