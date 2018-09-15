@@ -6,28 +6,6 @@ A element for my personal framework available in: https://github.com/Malextrap
 ## HTML
 
 ```html
-<!-- 
-/**
- * Created by alejandrorioscalera
- * On 15/8/17
- *
- * - SOCIAL NETWORKS -
- *
- * GitHub: https://github.com/clonalejandro or @clonalejandro
- * Website: https://clonalejandro.me/
- * Twitter: https://twitter.com/clonalejandro11/ or @clonalejandro11
- * Keybase: https://keybase.io/clonalejandro/
- *
- * - LICENSE -
- *
- * All rights reserved for clonalejandro ©Malextrap | Cards 2017 / 2018
- */
--->
-
-<!-- CONTAINERS -->
-<div class="card-container">
-  <div class="containerF">
-
     <!-- CARDS -->
     <!-- BLUE CARD -->
     <div class="card-link">
@@ -45,7 +23,7 @@ A element for my personal framework available in: https://github.com/Malextrap
         </div>
       </div>
      </div>
-    </a>
+    </div>
 
     <!-- RED/PINK CARD -->
     <div class="card-link">
@@ -63,7 +41,7 @@ A element for my personal framework available in: https://github.com/Malextrap
         </div>
       </div>
      </div>
-    </a>
+    </div>
     
    <!-- DARK-BLUE/NIGHT CARD -->
    <div class="card-link">
@@ -81,10 +59,7 @@ A element for my personal framework available in: https://github.com/Malextrap
           </div>
         </div>
        </div>
-      </a>
-    
-  </div>
-</div>
+      </div>
 ```
 
 <br>
