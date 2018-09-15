@@ -1,0 +1,134 @@
+/**
+ * Created by alejandrorioscalera
+ * On 15/8/17
+ *
+ * -- SOCIAL NETWORKS --
+ *
+ * GitHub: https://github.com/clonalejandro or @clonalejandro
+ * Website: https://clonalejandro.me/
+ * Twitter: https://twitter.com/clonalejandro11/ or @clonalejandro11
+ * Keybase: https://keybase.io/clonalejandro/
+ *
+ * -- LICENSE --
+ *
+ * All rights reserved for clonalejandro ©Malextrap | Cards 2017 / 2018
+ */
+
+/** REST **/
+
+body .card {
+  font-family: Rubik,Helveltica Neue,Open Sans,Segoe UI,sans-serif;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: #525f7f;
+}
+
+.card-link * {
+  font-size: 18px!important;
+}
+
+
+/** CONTAINERS **/
+
+.card-container {
+  margin: 20px;
+  display: flex;
+  display: -webkit-flex;
+}
+
+.containerF {
+  overflow: hidden;
+  margin: 20px;
+}
+
+
+/** CARD BASE **/
+
+.card a.card-link {
+  float: left;
+  margin: 20px;
+}
+
+.card {
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+  width: 300px;
+  //heigh: 350px;
+  display: flex;
+  margin: 40px 0;
+  border-radius: 10px;
+}
+
+
+/** CARD PROPERTIES **/
+
+.card.card-shadow { box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.5); }
+
+.card.card-blue { background: linear-gradient(180deg, #2af598 0%, #009efd 100%); }
+
+.card.card-red { background: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); }
+
+.card.card-night { background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); }
+
+
+/** CARD ELEMENTS **/
+
+.filter { background-color: rgba(0, 0, 0, .4); }
+
+.card > .filter h3 {
+  margin-bottom: 10px;
+  font-size: .777rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-left: 0.5rem;
+  color: #c4cad0;
+}
+
+.card > .filter p {
+  color: #f0f0f0;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 0.5rem;
+  line-height: 1.6em;
+}
+
+a.card-link {
+  margin-right: 3.25rem;
+  display: flex;
+  display: -webkit-flex;
+}
+
+.filter > p.title {  text-align: left;  }
+
+
+/** WITH DIVS **/
+
+div {
+  &.card-link {
+    display: flex;
+    margin: 2%;
+    .is-text {
+      margin-left: 5%;
+    }
+  }
+  &.card > div.filter {
+    width: 100%;
+  }
+}
+
+a.external {
+  z-index: 1;
+  position: absolute;
+  top: .5em;
+  left: 80%;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  box-shadow: 0 1px 2px 0 rgba(31, 45, 61, 0.15);
+}
+
